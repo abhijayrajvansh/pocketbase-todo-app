@@ -1,6 +1,10 @@
+import AllTodos from "@/components/AllTodos";
+
 const page = () => {
   return (
-    <div>fething todos here</div>
+    <div>
+      <AllTodos />
+    </div>
   )
 }
 
